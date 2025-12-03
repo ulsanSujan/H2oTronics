@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7499fc6d-a8ff-4278-95a3-e87a92838bb4" /># H2oTronics
+H2oTronics
 "Arduino Uno R4 project enabling remote control via smartphone. Features Bluetooth/Wi-Fi connectivity, easy setup, and customizable commands for IoT applications, robotics, and smart devices."
 
 Absolutely! I can create a **complete, copy-paste-ready README.md** that starts with **hardware wiring & component connections** and then continues to **hosting steps using GitHub Developer Pack**. Here’s a polished version:
@@ -84,7 +84,7 @@ watersystem/r4/master   → Arduino → Cloud (System health)
 
 ---
 
-
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/7499fc6d-a8ff-4278-95a3-e87a92838bb4" /># 
 
 ## 🌐 Hosting Roadmap Using GitHub Developer Pack
 
